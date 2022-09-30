@@ -1326,7 +1326,7 @@ const ftroli = {
 
 
     const menulist = `
-    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Ayush to take your WhatsApp usage into next level.
+    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Emon乂 to take your WhatsApp usage into next level.
         
        「 System Info 」
     
@@ -1356,7 +1356,7 @@ const ftroli = {
     
     Type *-menu* or press any button below to start using *${global.BotName}*
     
-    ©️ *${global.BotName}* All Rights Reserved by: *Fantox*
+    ©️ *${global.BotName}* All Rights Reserved by: *Emon乂*
     `
         const qtod = m.quoted? "true":"false"
         
@@ -1501,12 +1501,12 @@ break
 
 case 'support': case 'supportgc':
     
-    reply(`*My developer's group:*https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8 `)
+    reply(`*My developer's group:* https://chat.whatsapp.com/CtWvKtGsptX8l3y8AyuFSl `)
     break
 
 case 'repo': case 'botrepo':
     
-    reply(`*My whatsapp group:* https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8`)
+    reply(`*My whatsapp group:* https://chat.whatsapp.com/FAoXe5x0DMxBN6gKCRCDOM`)
     break
 
 case 'nsfwmenu':
@@ -3316,7 +3316,7 @@ case 'play2': case 'ytplay2': {
                     ]
                     let buttonMessage = {
                         image: { url: anu.thumbnail},
-                        caption: `「 _chiku Youtube Player_ 」
+                        caption: `「 _Youtube Player_ 」
 
     Title : ${anu.title}
     ID : ${anu.videoId}
@@ -3380,7 +3380,7 @@ case 'music': case 'play': case 'song': case 'ytplay': {
  ]
  let buttonMessage = {
  image: { url: anu.thumbnail },
- caption: `「  _chiku Youtube Player_  」
+ caption: `「  _Youtube Player_  」
 
 *Title :* ${anu.title}
 *Duration :* ${anu.timestamp}
@@ -4808,7 +4808,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Hii *${pushname}*,
 
-I am *chiku*, a bot developed by *Ayush*.
+I am *BotMee-MD乂*, a bot developed by *Emon*.
 
 ♠️ My prefix is:  ${prefix}
  
@@ -5038,7 +5038,7 @@ I am *chiku*, a bot developed by *Ayush*.
 
 
  『  *${global.BotName}*  』
- Powered by: *Ayush*
+ Powered by: *Emon*
 `
 
 

@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919060791616']
-global.OwnerNumber = ['919006765023']
-global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
-global.author = "By: Ayush"
-global.OwnerName = "Ayush"
-global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
+global.Owner = ['6285799227173']
+global.OwnerNumber = ['6285799227173']
+global.ownertag = ['6285799227173']
+global.BotName = "BotMee-MD乂"
+global.packname = "BotMee-MD"
+global.author = "Emon乂"
+global.OwnerName = "Emon乂"
+global.BotSourceCode = "https://github.com/EmonCme"
+global.SupportGroupLink = "https://chat.whatsapp.com/CtWvKtGsptX8l3y8AyuFSl"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,11 +23,11 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "bihar, India"
+global.location = "Purworejo, Indonesia"
 global.reactmoji = "❤️"
 global.themeemoji = "🍭"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/Ayush-pandey-u/Chiku-MD"
+global.websitex = "https://github.com/EmonCme"
 global.lolhuman = "KaysaS"
 
 

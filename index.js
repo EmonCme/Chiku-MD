@@ -26,7 +26,7 @@ console.log(color(figlet.textSync('chiku Bot MD', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Ayush, the main developer of this bot.\n\nThanks for using: Miku Bot','aqua'))
+console.log(color('\nHello, I am Emon, the main developer of this bot.\n\nThanks for using: BotMee-MD','aqua'))
 console.log(color('\nYou can follow me on GitHub: Ayush-pandey-u','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
